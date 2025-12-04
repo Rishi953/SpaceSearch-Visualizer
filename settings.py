@@ -1,0 +1,14 @@
+# Grid settings
+ROWS = 21
+COLS = 31
+CELL_SIZE = 30
+WIDTH = COLS * CELL_SIZE
+HEIGHT = ROWS * CELL_SIZE
+# Colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+GRAY = (180, 180, 180)
+GREEN = (0, 255, 0)
+RED = (255, 0, 0)
+BLUE = (0, 0, 255)
+YELLOW = (255, 255, 0)

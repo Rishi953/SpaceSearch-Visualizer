@@ -1,0 +1,17 @@
+capstone==5.0.6
+comtypes==1.4.13
+Cython==3.2.1
+mazelib==0.9.16
+numpy==2.3.4
+Pybag==2.2.16
+pygame==2.6.1
+pygbag==0.9.2
+pywin32==311
+win32more==0.7.0
+win32more-appsdk==0.7.3
+win32more-core==0.7.0
+win32more-Microsoft.Graphics.Win2D==0.7.1.3.2
+win32more-Microsoft.Web.WebView2==0.7.1.0.3595.46
+win32more-Microsoft.Windows.SDK.Contracts==0.7.10.0.26100.6901
+win32more-Microsoft.Windows.SDK.Win32Metadata==0.7.68.0.4
+win32more-Microsoft.WindowsAppSDK==0.7.1.8.251106002
